@@ -27,4 +27,5 @@ public class AdminProductDto {
     private BigDecimal price;
 
     private AdminProductCurrency currency;
+    private String image;
 }
